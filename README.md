@@ -1,5 +1,5 @@
 # The uploaded ipynb file includes the following two functions and test codes
- Please refer to the uploaded [SNN_electronics-2.ipynb](ENN_electronics-2.ipynb) in this github for the complete function and test codes. The readme file has brief description about the main function.
+ Please refer to the uploaded [SNN_electronics-2.ipynb](SNN_electronics-2.ipynb) in this github for the complete function and test codes. The readme file has brief description about the main function.
 
 
 ## 1. Fibonacci number calculation function 
