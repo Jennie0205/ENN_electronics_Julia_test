@@ -2,8 +2,8 @@
 ## 1. Fibonacci number calcularion function 
      
 function fibonacci_num(n) 
-# input n: n is a term in the Fibonacci number
-# output : nth Fibonacci number 
+     # input n: n is a term in the Fibonacci number
+     # output : nth Fibonacci number 
     
     if n <= 1 || isinteger(n)!= true 
         return "Not valid number"
@@ -16,8 +16,8 @@ end
 ## 2. String reverse function
 
 function reverse_string(s)
-# input s: given string
-# output reverse_s : reversed given string
+     # input s: given string
+     # output reverse_s : reversed given string
     
     # Split given string with space and return them as string array
     arr_s = split(s, " ") 
