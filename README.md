@@ -1,4 +1,6 @@
-# The uploaded ipynb file includes 
+# The uploaded ipynb file includes the following two functions and test codes
+     Please refer to the uploaded ipynb file in this github for the complete function and test codes. The readme file has brief description about the main function.
+
 ## 1. Fibonacci number calcularion function 
      
      function fibonacci_num(n) 
