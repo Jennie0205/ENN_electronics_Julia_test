@@ -2,6 +2,7 @@
 ## 1. Fibonacci number calcularion function 
      
 function fibonacci_num(n) 
+
      # input n: n is a term in the Fibonacci number
      # output : nth Fibonacci number 
     
@@ -16,6 +17,7 @@ end
 ## 2. String reverse function
 
 function reverse_string(s)
+
      # input s: given string
      # output reverse_s : reversed given string
     
