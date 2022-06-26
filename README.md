@@ -2,7 +2,7 @@
  Please refer to the uploaded [ENN_electronics-2.ipynb](ENN_electronics-2.ipynb) in this github for the complete function and test codes. The readme file has brief description about the main function.
 
 
-## 1. Fibonacci number calcularion function 
+## 1. Fibonacci number calculation function 
      
      function fibonacci_num(n) 
 
